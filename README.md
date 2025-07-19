@@ -75,4 +75,4 @@ A 2–3 frame animation printed in sequence across the back, portraying an ambig
 
 ---
 
-> © 2025 – All rights reserved. Concept by Jeremiah. Inspired by Coldplay’s viral concert moment.
+> © 2025 – All rights reserved. Concept by Jeremiah. Inspired by and To Promote Treating Patners & Love Onces with Dignity and Respect.
