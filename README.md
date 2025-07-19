@@ -17,6 +17,8 @@ The **“Cheaters or Shy?”** tee is a minimalist, narrative-driven streetwear 
 
 ### 👕 Front Design: Playful Statement
 
+![Front Design](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%20Tee-Brand.jpg)
+
 - **Quote:**  
   _“Ooh, look at these two… cheaters? Or just shy?”_
 
@@ -36,6 +38,8 @@ The **“Cheaters or Shy?”** tee is a minimalist, narrative-driven streetwear 
 ---
 
 ### 🖼 Back Design: Narrative Animation Graphic
+
+![Back Design](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%202Tee-Brand.jpg)
 
 #### Concept  
 A vertical 3-frame comic-style sequence illustrating a subtle moment of intimacy that leaves observers unsure of what they’ve seen.
@@ -86,10 +90,17 @@ A vertical 3-frame comic-style sequence illustrating a subtle moment of intimacy
 The **“Cheaters or Shy?”** tee is the cornerstone of *Unspoken Threads’* debut drop — a wearable narrative designed to engage, provoke, and inspire storytelling.
 
 ### 🔹 Mockup Visuals (For Designer Reference)
-- **Front View:** Black tee, centered bold quote with neon pink “cheaters?”, electric blue “shy?”, white winking emoji, and ace of spades sleeve detail, against an urban brick wall backdrop  
-- **Back View:** 3-frame vertical comic strip, monochrome silhouettes with captions  
-- **Lifestyle Shot:** Couple wearing the tee in an urban setting (concert, café, sidewalk)  
-- **Detail Shot:** Close-up of front design to highlight text colors, emoji, and sleeve embroidery
+- **Front View:**  
+  ![Front View](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%20Tee-Brand.jpg)
+
+- **Back View:**  
+  ![Back View](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%202Tee-Brand.jpg)
+
+- **Lifestyle Shot:**  
+  _Couple wearing the tee in an urban setting (concert, café, sidewalk)_
+
+- **Detail Shot:**  
+  _Close-up of front design to highlight text colors, emoji, and sleeve embroidery_
 
 ---
 
@@ -164,7 +175,3 @@ We welcome creative input — submit pull requests with clear notes.
 ## 📄 License
 
 This project is licensed under the MIT License – see the `LICENSE` file for details.
-
----
-
-This updated README integrates the generated design into the front design section, adjusts the mockup visuals to reflect the new aesthetic, and tweaks the social media captions to emphasize the front design's impact. Let me know if you'd like further refinements or additional mockups!
