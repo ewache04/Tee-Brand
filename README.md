@@ -1,177 +1,78 @@
-# Unspoken Threads – "Cheaters or Shy?" Tee Design Project
+# 👕 Tee Concept: “Cheaters or Shy?” Streetwear Drop
 
-Welcome to the Unspoken Threads design project repository for the **“Cheaters or Shy?”** tee — the flagship piece of our debut streetwear drop. This README provides a comprehensive overview of the design concept, pitch deck mockups, brand identity, and social media launch strategy.
-
----
-
-## 📌 Project Overview
-
-- **Brand:** Unspoken Threads  
-- **Tagline:** *Wear the story. Start the conversation.*
-
-The **“Cheaters or Shy?”** tee is a minimalist, narrative-driven streetwear piece designed to spark curiosity and conversation. Featuring a bold front quote with playful accents, it captures a fleeting moment of intrigue, leaving onlookers questioning the story behind it.
+A playful, mysterious streetwear piece inspired by trending internet culture and subtle public interactions.
 
 ---
 
-## 🎨 Design Concept
+## 🧾 DESIGN OVERVIEW
 
-### 👕 Front Design: Playful Statement
+### FRONT (Text Only)
+> **Quote:**  
+> “Ooh, look at these two… cheaters? Or just shy?”  
 
-![Front Design](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%20Tee-Brand.jpg)
-
-- **Quote:**  
-  _“Ooh, look at these two… cheaters? Or just shy?”_
-
-- **Font:**  
-  Bold sans-serif (e.g., Druk Bold, Montserrat ExtraBold, Helvetica Neue Condensed Bold) for “Ooh, look at these two…”; handwritten script (e.g., Brush Script) for “cheaters?” and “shy?”.
-
-- **Placement:**  
-  Horizontally and vertically centered on the chest
-
-- **Color Options:**  
-  - **Primary:** Black tee with white text for “Ooh, look at these two…”, neon pink for “cheaters?”, electric blue for “shy?”, and a white winking eye emoji below “shy?”  
-  - **Alternate:** White tee with black text for a reversed look
-
-- **Styling:**  
-  Clean layout with a winking eye emoji (1-inch) below “shy?” and a subtle black-on-black embroidered ace of spades (0.5-inch) on the left sleeve for a “cheaters” nod. No additional logos on front to maintain focus.
+- **Font:** Bold, clean sans-serif (e.g., Montserrat, Helvetica Neue Bold, Druk)
+- **Layout:** Centered on the chest  
+- **Color Scheme:** 
+  - Option 1: Black text on white tee  
+  - Option 2: White text on black tee  
+- **Style:** Minimalist, streetwear-ready  
 
 ---
 
-### 🖼 Back Design: Narrative Animation Graphic
+### BACK (Comic-Style Animation)
 
-![Back Design](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%202Tee-Brand.jpg)
+A 2–3 frame animation printed in sequence across the back, portraying an ambiguous couple dynamic.
 
-#### Concept  
-A vertical 3-frame comic-style sequence illustrating a subtle moment of intimacy that leaves observers unsure of what they’ve seen.
+#### Animation Frames:
+1. **Frame 1:** Two faceless silhouettes standing side by side (no contact)  
+2. **Frame 2:** Male figure reaches arm around the female’s waist  
+3. **Frame 3:** Couple is now cuddling — audience is left guessing  
 
-#### Frame Breakdown (Stacked Top to Bottom):
-1. **Frame 1:**  
-   - Two silhouette figures (male and female) standing slightly apart  
-   - Neutral body language  
-   - Caption: *“Just standing...”*
-
-2. **Frame 2:**  
-   - Male’s arm gently around female’s waist  
-   - She leans in slightly  
-   - Caption: *“Now he’s getting comfortable...”*
-
-3. **Frame 3:**  
-   - Figures are cuddled together  
-   - Optional heart or ellipsis above heads  
-   - Caption: *“...and we’re left wondering.”*
-
-#### Art Style
-- **Silhouettes:** Clean, faceless outlines for universality  
-- **Linework:** Thin and intentional — no over-detailing  
-- **Color Palette:** Monochrome (black/white/gray) with optional blush/beige accents  
-- **Mood:** Observational, intimate, slightly mysterious
+- **Art Style:** Monochrome or soft tones, sketch-like outlines (no facial details — relatable but anonymous)
+- **Printing Technique:** Heat transfer or screen printing for durability  
+- **Garment Fit:** Optimized for oversized tees and hoodies  
 
 ---
 
-## 🧠 Production Notes
+## 📸 Mockup Visuals (For Designer Reference)
 
-- **Printing:** Heat transfer or high-quality screen printing recommended for the front quote; embroidery for the ace of spades on the sleeve  
-- **Scalability:** Works on oversized tees and hoodies  
-- **Layout:** Balanced front design with emoji and sleeve detail; back frames spaced for natural visual flow  
-- **Branding Touch:** Optional small logo (e.g., *Unspoken Threads – Vol. 01*) at bottom hem or inner neck
+### 🔹 Front View (Option 1):
+![Front View](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%20Tee-Brand.jpg)
 
----
-
-## 🎯 Target Audience
-
-- **Demographic:** Ages 18–35, streetwear enthusiasts, meme-aware, socially engaged  
-- **Psychographic:** Curious, bold, conversational — people who enjoy layered meanings and cultural commentary
+### 🔹 Front View (Option 2):
+![Back View](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%202Tee-Brand.jpg)
 
 ---
 
-## 🖼 Pitch Deck Mockup
+## 🧲 Marketing Angle
 
-### 🔹 Concept Summary
-The **“Cheaters or Shy?”** tee is the cornerstone of *Unspoken Threads’* debut drop — a wearable narrative designed to engage, provoke, and inspire storytelling.
+- **Launch Caption:**  
+  “It’s not your business. But now you’re invested.”
 
-### 🔹 Mockup Visuals (For Designer Reference)
-- **Front View:**  
-  ![Front View](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%20Tee-Brand.jpg)
+- **Engagement Campaign:**  
+  - Encourage couples/friends to wear the shirt and film public reactions  
+  - Social Promo Ideas:  
+    - “POV: You saw the back of their shirt and had questions”  
+    - “We’re not saying they’re cheating… but it’s giving suspicious 👀”  
 
-- **Back View:**  
-  ![Back View](https://raw.githubusercontent.com/ewache04/Tee-Brand/main/Clothing-Sample%202Tee-Brand.jpg)
-
-- **Lifestyle Shot:**  
-  _Couple wearing the tee in an urban setting (concert, café, sidewalk)_
-
-- **Detail Shot:**  
-  _Close-up of front design to highlight text colors, emoji, and sleeve embroidery_
+- **Hashtags:**  
+  `#CheatersOrShy #StreetwearMystery #WhatDidYouSee #SoftDramaWear`
 
 ---
 
-## 💡 Why It Works
+## 🛠 Designer Notes
 
-- **Conversation Starter:** The quote and playful accents invite curiosity and debate  
-- **Versatile Aesthetic:** Minimalist yet bold — fits into casual and streetwear scenes  
-- **Social Media Magnet:** Built-in storytelling element perfect for short-form content
-
----
-
-## 📈 Marketing Strategy
-
-### 🔸 Launch Line:
-> *“It’s not your business. But now you’re invested.”*
-
-### 🔸 Hashtags:
-`#CheatersOrShy` `#UnspokenThreads` `#BackTalkTee` `#MindYourBusinessLine`
-
-### 🔸 Social Media Content Ideas:
-- **Reels/TikTok:**  
-  _POV: You’re behind a couple at a concert and see this on their shirt..._
-- **Reaction Challenges:**  
-  Couples wear it in public and film reactions
-- **Engagement Polls:**  
-  _“What’s your verdict? Cheaters or just shy?”_
+- Keep the animation clean and clearly visible across all sizes (especially oversized fits)
+- Prepare a short-looping GIF version of the back animation for digital use on TikTok/Instagram
+- Use vector graphics for print clarity at scale
 
 ---
 
-## ✍ Social Media Caption Pack
-
-### 🧵 Launch Day Captions
-
-#### **Teaser Post**
-> Caught a moment that’s not your business? 👀  
-> The “Cheaters or Shy?” tee from Unspoken Threads drops today, sparking stories everywhere.  
-> Grab yours and join the convo!  
-> #CheatersOrShy #UnspokenThreads #BackTalkTee
-
-#### **Engagement Post**
-> You see them wearing it. You read the front.  
-> Now you’re wondering… 😏  
-> What’s your take? Cheaters or just shy? Vote in our poll 👉 [Link]  
-> #CheatersOrShy #UnspokenThreads
-
-#### **Reel/TikTok POV Post**
-> POV: You’re at a concert and the couple in front of you is wearing this. 👀  
-> The “Cheaters or Shy?” tee is here to stir things up.  
-> Get yours now.  
-> #UnspokenThreads #MindYourBusinessLine
-
-#### **Couple Challenge Post**
-> Grab your partner and rock the “Cheaters or Shy?” tee together 😘  
-> Film reactions and tag us for a chance to be featured!  
-> #CheatersOrShy #UnspokenThreads #BackTalkTee
-
-#### **Story Drop Post**
-> The story starts here.  
-> Unspoken Threads’ “Cheaters or Shy?” tee just dropped and it’s got everyone talking.  
-> 😏 Cop yours before they’re gone!  
-> #CheatersOrShy #UnspokenThreads
+### 🔁 Future Ideas:
+- Hoodie version with the quote on the sleeve  
+- Color variant drops (gray/navy/earth tones)  
+- “Side-Eye” edition with a cartoon face peeking at the couple
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork this repo, submit design suggestions, or contribute to the marketing rollout plan.  
-We welcome creative input — submit pull requests with clear notes.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+> © 2025 – All rights reserved. Concept by Jeremiah. Inspired by Coldplay’s viral concert moment.
